@@ -1,0 +1,1 @@
+SELECT C1 FROM numerical_data ORDER BY C1 ASC

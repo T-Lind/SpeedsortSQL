@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="RunInsertion" type="DatabaseScript">
+    <script-file value="$PROJECT_DIR$/SortData.sql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="5e3d5cce-40e0-4092-b745-93f6b1a2855c" />
+    <method v="2" />
+  </configuration>
+</component>
